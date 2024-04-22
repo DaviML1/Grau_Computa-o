@@ -1,2 +1,2 @@
-# Grau_Computa-o
+# Grau_Computacao
 Projeto do curso.
